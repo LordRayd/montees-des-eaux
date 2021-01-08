@@ -1,0 +1,12 @@
+[submodule "application"]
+	path = application
+	url = https://github.com/LordRayd/montees_des_eaux_application
+[submodule "import-datas-interfaces"]
+	path = import-datas-interfaces
+	url = git@github.com:HMaxime/montees-des-eaux-import-datas-interfaces.git
+[submodule "server"]
+	path = server
+	url = git@github.com:HMaxime/montees-des-eaux-server.git
+[submodule "scripts"]
+	path = scripts
+	url = git@github.com:HMaxime/montees-des-eaux-import-datas-scripts.git
